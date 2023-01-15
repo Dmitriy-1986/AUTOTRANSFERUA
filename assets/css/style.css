@@ -13,3 +13,7 @@
 .bg-footer {
     background-color: #eef3f8;
 }
+
+.card-img-top {
+    height: 212px;
+}
